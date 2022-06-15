@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<show>
+  <cue transition="2" follow="STOP">
+    <data>
+      [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    </data>
+
+    <effects>
+      <effect type ="SQUARE" BPM="60" stagger="100">
+        <fixtures>
+          etc...
+        </fixtures>
+      </effect>
+    </effects>
+  </cue>  
+</show>
